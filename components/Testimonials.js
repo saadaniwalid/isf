@@ -32,7 +32,7 @@ export default function Testimonials() {
             />
           </div>*/}
           <div className="testimonials-slider__content">
-            <span className="testimonials-slider__code">PDG-  IFS</span>
+            <span className="testimonials-slider__code">client</span>
             <div className="testimonials-slider__title">Hamdi ahmed</div>
             <div className="testimonials-slider__text">
             Parmi les leaders dans le marché du transport international ISF ira toujours plus loin pour vous satisfaire.
@@ -47,7 +47,7 @@ export default function Testimonials() {
             />
           </div>*/}
           <div className="testimonials-slider__content">
-            <span className="testimonials-slider__code">PDG-  IFS</span>
+            <span className="testimonials-slider__code">client</span>
             <div className="testimonials-slider__title">Amina bouchaara</div>
             <div className="testimonials-slider__text">
             Parmi les leaders dans le marché du transport international ISF ira toujours plus loin pour vous satisfaire.
